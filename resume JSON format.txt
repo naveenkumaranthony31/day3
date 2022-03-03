@@ -1,0 +1,54 @@
+
+{
+  "personal information": {
+    "name": "Naveen Kumar",
+    "email": "naveenthiwary20@gamil.com",
+    "phone": "+91 860827060",
+    "degree": "Electrical and electronics engineer",
+    "address": {
+       "location": "palakkarai",
+       "city": "trichy",
+       "state": "tamilnadu",}
+ },
+ 
+  "work": [
+    {
+      "company": "ASP power solution,trichy city corportion",
+      "position": "electrical maintance",
+      "startDate": "2021-02-02",
+      
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "diplamo": "wireless linked subsation for international boundry scaning surveilance system using GPS and GSM",
+      "engineering": "power quality improvement of PMSG coubled synchronous drive fed 3phase load using STATCOM",
+      
+    }
+  ],
+  
+  "organizing skill": [
+    {
+      "TNEB": "co-organized industrial visit to trichy TNEB sub-satation",
+      "NSS" : "co-organized NSS camp in trichy rural area",
+      
+    }
+  ],
+  "award": [
+    {
+      "carrom": "runner up trichy distirc level",
+      "cricket": "winner inter college met",
+      "foodball": "winner inter college met",
+            
+    }
+  ],
+  
+  "intrests": [
+    {
+      "area of intrest": "motors,transformers,power system",
+      
+      ]
+    }
+  ]
+}
